@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gatito1",
+    "attributes": ["Fast"],
+    "color": "Black"
+  },
+  {
+    "name": "Gatito2",
+    "attributes": ["Handsome"],
+    "color": "Brown",
+    "age": -1
+  }
+]
